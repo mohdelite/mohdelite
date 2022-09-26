@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohdelite.mohdelite">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MohdElite....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=48&pause=1000&color=F70000&center=true&vCenter=true&width=435&height=80&lines=Hello%2CThere!%F0%9F%91%8B;This+is+MohdElite..." alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
